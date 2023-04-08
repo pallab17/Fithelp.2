@@ -15,8 +15,11 @@ const Hero = () => {
         {/* hero-head */}
         <div className="hero-text">
           <div>
-            <span>Shape </span>
+            <span className="outline-text">Shape </span>
             <span>Your</span>
+          </div>
+          <div>
+          <span>Ideal Body</span>
           </div>
         </div>
       </div>
