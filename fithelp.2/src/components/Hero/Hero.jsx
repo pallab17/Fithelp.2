@@ -10,6 +10,8 @@ const Hero = () => {
     
     
     <Header/>
+
+    
     
     
     </div>

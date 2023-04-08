@@ -5,4 +5,12 @@
 .left-h{
     padding: 2rem;
     padding-top: 1.5rem;
+    flex: 3
+    /* flex 3 left e dilam
+    flex 1 right ke dilam
+    as left side r width is 3 times more than right side
+    */
+}
+.right-h{
+    flex: 1
 }
